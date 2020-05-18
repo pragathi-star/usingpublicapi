@@ -5,6 +5,7 @@
 }
 
 body{
+  background-image:url(../pic.jpg);
   font-family: "Nunito",sans-serif;
   background: #f8f8f8;
 }
